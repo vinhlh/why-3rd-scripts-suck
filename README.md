@@ -1,7 +1,5 @@
-## Why don't use 3rd scripts
+## With 3rd scripts
+![](https://github.com/vinhlh/why-3rd-scripts-suck/raw/master/images/before.png)
 
-List of 3rd scripts should be removed.
-
-## Another scripts
-
-jQuery
+## Without 3rd scripts
+![](https://github.com/vinhlh/why-3rd-scripts-suck/raw/master/images/after.png)
